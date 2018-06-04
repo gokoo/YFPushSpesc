@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YFPush_Example' do
+  pod 'YFPush', :path => '../'
+
+  target 'YFPush_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
