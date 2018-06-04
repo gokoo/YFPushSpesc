@@ -8,5 +8,5 @@
 #import <Foundation/Foundation.h>
 
 @interface YFPush : NSObject
-
+- (void)logQQQ;
 @end

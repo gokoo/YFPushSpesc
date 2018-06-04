@@ -9,4 +9,7 @@
 
 @implementation YFPush
 
+- (void)logQQQ{
+    NSLog(@"sss");
+}
 @end
