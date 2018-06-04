@@ -1,0 +1,16 @@
+PODS:
+  - YFPush (0.1.0)
+
+DEPENDENCIES:
+  - YFPush (from `../`)
+
+EXTERNAL SOURCES:
+  YFPush:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YFPush: 1b2d17f2c03dd4de1b6a50e8cef5e8d5cadd0099
+
+PODFILE CHECKSUM: fbb3e3ccd8f4ce8f0fc7e51f0ead17833732f5d5
+
+COCOAPODS: 1.5.3

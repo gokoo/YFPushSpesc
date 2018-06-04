@@ -1,0 +1,6 @@
+framework module YFPush {
+  umbrella header "YFPush-umbrella.h"
+
+  export *
+  module * { export * }
+}
